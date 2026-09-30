@@ -8,7 +8,7 @@ A collection of my solutions to **HackerRank coding problems**, created to impro
 
 ## 📚 Topics
 
-* Python Fundamentals
+* Python Fundamentals   
 * Strings & Lists
 * Sets & Dictionaries
 * Functions & Loops
