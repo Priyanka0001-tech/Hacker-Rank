@@ -6,7 +6,7 @@ A collection of my solutions to **HackerRank coding problems**, created to impro
 
 * Python 3
        
-## 📚 Topics                 
+## 📚 Topics                  
                            
 * Python Fundamentals   
 * Strings & Lists
